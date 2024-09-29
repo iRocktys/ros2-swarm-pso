@@ -22,11 +22,4 @@ Para rodar este projeto, é necessário:
 - Ambiente de simulação configurado com o **TurtleSim** ou outro simulador compatível com ROS 2.
 - **Python 3.8+** e pacotes necessários listados no código.
 
-## Instalação
-
-Siga os passos abaixo para configurar o ambiente:
-
-1. Instale o **ROS 2 Iron** seguindo as instruções fornecidas no arquivo [Instalação ROS2 Iron.pdf](./Tutoriais/Instalação%20ROS2%20Iron.pdf).
-2. Configure o simulador **TurtleSim** e o **rqt** conforme o tutorial [Comandos básicos, TurtleSim e rqt.pdf](./Tutoriais/Comandos%20básicos,%20TurtleSim%20e%20rqt.pdf).
-3. (Opcional) Se necessário, configure um ambiente virtual com o **VirtualBox**, conforme o guia [VirtualBox.pdf](./Tutoriais/VirtualBox.pdf).
 
