@@ -18,7 +18,7 @@ Implementar e avaliar o desempenho do algoritmo PSO para coordenar a movimentaç
 
 Para rodar este projeto, é necessário:
 
-- **ROS 2 Iron** instalado (vide tutorial na pasta Tutoriais).
+- **ROS 2 Iron** instalado (tutorial na pasta Tutoriais).
 - Ambiente de simulação configurado com o **TurtleSim** ou outro simulador compatível com ROS 2.
 - **Python 3.8+** e pacotes necessários listados no código.
 
