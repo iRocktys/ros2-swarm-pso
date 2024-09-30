@@ -1,6 +1,6 @@
-# Beswarm-1.0
+# Ros2-swarm-pso
 
-O **Beswarm-1.0** é um repositório que apresenta a utilização do algoritmo de otimização bioinspirado **Particle Swarm Optimization (PSO)** para realizar a movimentação de múltiplos robôs na plataforma **ROS 2 Iron**. O principal objetivo do projeto é avaliar a eficácia deste algoritmo para a movimentação autônoma de robôs em ambiente de simulação ou físico.
+O **Ros2-swarm-pso** é um repositório que apresenta a utilização do algoritmo de otimização bioinspirado **Particle Swarm Optimization (PSO)** para realizar a movimentação de múltiplos robôs na plataforma **ROS 2 Iron**. LINK: https://docs.ros.org/en/iron/index.html. O principal objetivo do projeto é avaliar a eficácia deste algoritmo para a movimentação autônoma de robôs em ambiente de simulação ou físico.
 
 ## Objetivo
 
